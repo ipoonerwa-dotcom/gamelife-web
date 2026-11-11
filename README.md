@@ -8,6 +8,8 @@ CZ 回忆录 *Freedom of Money* 改编的互动影游的官网，游戏可以直
 
 ## 这个仓库
 
+网站支持中英文：右上角可以切换，选择会记在这台设备上；也可以在网址后加 `?lang=en` 或 `?lang=zh` 直接指定。没选过的访客，浏览器是中文就显示中文，否则显示英文。游戏的按钮和菜单跟着网站一起切换，故事正文目前只有中文。
+
 这里只放打包好的静态网站（`index.html` 和 `assets/`、`frames/`、`audio/`、`chapters-cz/`、`site/`），由私有工程构建。所有路径都是相对路径，可以直接放到任何静态托管上：
 
 - **GitHub Pages**：Settings → Pages → Deploy from a branch → `main` / `(root)`。
