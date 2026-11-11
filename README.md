@@ -4,11 +4,11 @@ CZ 回忆录 *Freedom of Money* 改编的互动影游的官网，游戏可以直
 
 2025 年冬天，二十二岁的林一写来一封手写信："你是怎么开始的？第一步是什么？"他决定认真回答，一章一封手写回信。你回到 1989 年的温哥华、2017 年的上海、2019 年被盗的那一夜，替他做当年的每一个选择。全书八章，35 张卡。序章到第二章免费，不需要钱包。
 
-*An interactive story based on CZ's memoir* Freedom of Money*. A young builder writes to ask "How did you start?" CZ answers him one chapter at a time, and you make his choices. Eight chapters and 35 cards; the first three chapters are free and need no wallet.*
+*An interactive story based on CZ's memoir* Freedom of Money*. A young builder writes to ask "How did you start?" CZ answers him one chapter at a time, and you make his choices. Eight chapters and 35 cards, in Chinese and English; the first three chapters are free and need no wallet.*
 
 ## 这个仓库
 
-网站支持中英文：右上角可以切换，选择会记在这台设备上；也可以在网址后加 `?lang=en` 或 `?lang=zh` 直接指定。没选过的访客，浏览器是中文就显示中文，否则显示英文。游戏的按钮和菜单跟着网站一起切换，故事正文目前只有中文。
+网站支持中英文：右上角可以切换，选择会记在这台设备上；也可以在网址后加 `?lang=en` 或 `?lang=zh` 直接指定。没选过的访客，浏览器是中文就显示中文，否则显示英文。游戏也跟着网站一起切换，故事正文同样有完整的英文版。
 
 这里只放打包好的静态网站（`index.html` 和 `assets/`、`frames/`、`audio/`、`chapters-cz/`、`site/`），由私有工程构建。所有路径都是相对路径，可以直接放到任何静态托管上：
 
