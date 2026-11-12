@@ -15,6 +15,8 @@ CZ 回忆录 *Freedom of Money* 改编的互动影游的官网，游戏可以直
 - **GitHub Pages**：Settings → Pages → Deploy from a branch → `main` / `(root)`。
 - **其他托管**：Vercel、Cloudflare Pages、Netlify 都可以，把仓库根目录当作输出目录，不需要构建命令。
 
+**官网样式层**：`assets/premium.css` 是在打包结果上加的一层样式（首屏电影画面、宋体标题、暗场开始读、目录与金库的版式），由 `index.html` 在 `Game-*.css` 之后加载；用到 `assets/fonts/noto-serif-sc/`（思源宋体 Noto Serif SC 的 44 个分片，SIL OFL 1.1，覆盖官网文案用到的字）和 `site/hero-cinema.webp`、`site/stage-poster.webp`。它只改官网的 `fp-*` 样式，不碰游戏。以后从私有工程重新打包时，要把这几样一起带上，并在 `index.html` 里保留那行 `premium.css`；官网文案新增了字，宋体里没有的字会自动退回系统字体。
+
 第三章到终章的正文不在这里。它们用 drand 时间锁加密，在代币毕业后以 `chapters-cz/C3.enc` … `C7.enc` 的形式加进来。毕业后第 3、6、9、12、15 天，任何人都能解开对应的一章；网站解开前，会先核对金库合约里记录的密文哈希。
 
 ## 链上（BNB Chain）
