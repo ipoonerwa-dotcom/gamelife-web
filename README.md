@@ -21,7 +21,7 @@ CZ 回忆录 *Freedom of Money* 改编的互动影游的官网，游戏可以直
 
 | | 地址 |
 |---|---|
-| 金库合约 FirstPageVault（GANG 报价版） | [`0xB054061A66D796D8530287DFa1D3112c634Bfc1E`](https://bscscan.com/address/0xb054061a66d796d8530287dfa1d3112c634bfc1e#code)，源码已在 [Sourcify](https://repo.sourcify.dev/56/0xB054061A66D796D8530287DFa1D3112c634Bfc1E) 验证（完全匹配），BscScan 验证已提交 |
+| 金库合约 FirstPageVault（GANG 报价版） | [`0xB054061A66D796D8530287DFa1D3112c634Bfc1E`](https://bscscan.com/address/0xb054061a66d796d8530287dfa1d3112c634bfc1e#code)，源码已在 BscScan 和 [Sourcify](https://repo.sourcify.dev/56/0xB054061A66D796D8530287DFa1D3112c634Bfc1E)（完全匹配）验证 |
 | 代币 游戏人生（Freedom of Money） | 即将在 [Gang](https://gang.fun) 发行，用 GANG 报价（底池是「游戏人生 / GANG」） |
 
 - **税收去向**：交易税以 GANG 全部进金库，没有营销钱包。一半在每章启封时直接打进黑洞地址销毁；另一半进奖池。开章门槛是 5 / 10 / 15 / 25 / 35 BNB 等值的 GANG，按绑定代币时锁定的汇率换算。
