@@ -21,13 +21,13 @@ CZ 回忆录 *Freedom of Money* 改编的互动影游的官网，游戏可以直
 
 | | 地址 |
 |---|---|
-| 金库合约 FirstPageVault | [`0x78D14DE2b8C13f85AcDFb15f2561378dD785Fbe3`](https://bscscan.com/address/0x78d14de2b8c13f85acdfb15f2561378dd785fbe3#code)，源码已在 BscScan 和 [Sourcify](https://repo.sourcify.dev/56/0x78D14DE2b8C13f85AcDFb15f2561378dD785Fbe3) 验证 |
-| 代币 游戏人生（Freedom of Money） | 即将在 [Gang](https://gang.fun) 发行 |
+| 金库合约 FirstPageVault（GANG 报价版） | [`0xB054061A66D796D8530287DFa1D3112c634Bfc1E`](https://bscscan.com/address/0xb054061a66d796d8530287dfa1d3112c634bfc1e#code)，源码已在 [Sourcify](https://repo.sourcify.dev/56/0xB054061A66D796D8530287DFa1D3112c634Bfc1E) 验证（完全匹配），BscScan 验证已提交 |
+| 代币 游戏人生（Freedom of Money） | 即将在 [Gang](https://gang.fun) 发行，用 GANG 报价（底池是「游戏人生 / GANG」） |
 
-- **税收去向**：交易税全部进金库，没有营销钱包。一半在每章启封时到 GANG/WBNB 池子买入 GANG，打进黑洞地址销毁；另一半进奖池。
+- **税收去向**：交易税以 GANG 全部进金库，没有营销钱包。一半在每章启封时直接打进黑洞地址销毁；另一半进奖池。开章门槛是 5 / 10 / 15 / 25 / 35 BNB 等值的 GANG，按绑定代币时锁定的汇率换算。
 - **合约权限**：金库没有管理员，不能升级。
 - **收卡**：在链上收下一张卡，会从你的钱包销毁 20,000 枚「游戏人生」。
-- **领奖**：集齐 35 张卡的地址，从毕业后第 15 天起可以领一次奖池的 2%。
+- **领奖**：集齐 35 张卡的地址，从毕业后第 15 天起可以领一次奖池的 2%，以 GANG 支付。
 
 ## 原著
 
