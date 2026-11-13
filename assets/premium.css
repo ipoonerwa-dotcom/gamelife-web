@@ -93,6 +93,11 @@
   transform: none;
   font-weight: 900;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.18);
+  /* Official logo (same image as the @gamelifememe avatar) in place of the red "游" seal;
+     scaled up a little so the black margin is trimmed and the characters stay legible. */
+  background: #000 url("../site/logo.jpg") center / 140% no-repeat;
+  color: transparent;
+  font-size: 0;
 }
 .fp-site .fp-brand { color: var(--cream); font-weight: 900; letter-spacing: 0.16em; }
 @media (max-width: 479px) {
